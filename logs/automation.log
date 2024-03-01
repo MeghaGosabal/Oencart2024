@@ -1,0 +1,29 @@
+22:00:17.284 [main] INFO  testCases.RegistrationTestCase - **starting register testcase**
+22:00:17.320 [main] INFO  testCases.RegistrationTestCase - **click on my account **
+22:00:19.484 [main] INFO  testCases.RegistrationTestCase - **clicking on register**
+22:00:24.582 [main] INFO  testCases.RegistrationTestCase - **entering all the credentials**
+22:00:24.582 [main] INFO  testCases.RegistrationTestCase - **entering first name**
+22:00:26.789 [main] INFO  testCases.RegistrationTestCase - **entering last name**
+22:00:28.971 [main] INFO  testCases.RegistrationTestCase - **entering email**
+22:00:31.228 [main] INFO  testCases.RegistrationTestCase - **entering password**
+22:02:00.765 [main] INFO  testCases.LoginTestCase - **starting login testcase**
+22:02:00.803 [main] INFO  testCases.LoginTestCase - **clicking on my account**
+22:02:03.009 [main] INFO  testCases.LoginTestCase - **clicking on login**
+22:02:06.106 [main] INFO  testCases.LoginTestCase - **entering the credentias**
+22:02:12.727 [main] INFO  testCases.LoginTestCase - **login testcase is completed**
+22:02:42.216 [main] INFO  testCases.RegistrationTestCase - **starting register testcase**
+22:02:42.253 [main] INFO  testCases.RegistrationTestCase - **click on my account **
+22:02:44.454 [main] INFO  testCases.RegistrationTestCase - **clicking on register**
+22:02:49.534 [main] INFO  testCases.RegistrationTestCase - **entering all the credentials**
+22:02:49.534 [main] INFO  testCases.RegistrationTestCase - **entering first name**
+22:02:51.743 [main] INFO  testCases.RegistrationTestCase - **entering last name**
+22:02:53.915 [main] INFO  testCases.RegistrationTestCase - **entering email**
+22:02:56.237 [main] INFO  testCases.RegistrationTestCase - **entering password**
+22:08:21.626 [main] INFO  testCases.RegistrationTestCase - **starting register testcase**
+22:08:21.676 [main] INFO  testCases.RegistrationTestCase - **click on my account **
+22:08:23.878 [main] INFO  testCases.RegistrationTestCase - **clicking on register**
+22:08:28.939 [main] INFO  testCases.RegistrationTestCase - **entering all the credentials**
+22:08:28.939 [main] INFO  testCases.RegistrationTestCase - **entering first name**
+22:08:31.176 [main] INFO  testCases.RegistrationTestCase - **entering last name**
+22:08:33.371 [main] INFO  testCases.RegistrationTestCase - **entering email**
+22:08:35.561 [main] INFO  testCases.RegistrationTestCase - **entering password**
